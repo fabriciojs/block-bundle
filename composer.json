@@ -55,6 +55,6 @@
         }
     },
     "conflict": {
-        "sonata/cache": "<1.1.1"
+        "sonata/cache": "<1.1.1 || >2.99"
     }
 }
